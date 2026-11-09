@@ -1,0 +1,7 @@
+{
+  "appId": "kr.postechian.archive",
+  "appName": "POSTECHIAN",
+  "webDir": "dist/public",
+  "android": { "backgroundColor": "#ffffff" },
+  "server": { "androidScheme": "https" }
+}

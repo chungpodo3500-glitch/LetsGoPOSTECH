@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="POSTECHIAN archive mark">
+  <rect width="256" height="256" rx="28" fill="#003087"/>
+  <path d="M51 67c26-8 51-4 77 10v116c-25-15-51-18-77-10V67Z" fill="#f7f7f4"/>
+  <path d="M205 67c-26-8-51-4-77 10v116c25-15 51-18 77-10V67Z" fill="#e7eef7"/>
+  <path d="M128 77v116" stroke="#b6cce2" stroke-width="5"/>
+  <path d="M65 91c15-3 29-1 43 5M65 111c15-3 29-1 43 5M148 96c14-6 28-8 43-5M148 116c14-6 28-8 43-5" fill="none" stroke="#7394bb" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="128" cy="45" r="10" fill="#d84b5d"/>
+</svg>

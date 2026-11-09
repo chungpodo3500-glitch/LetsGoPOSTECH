@@ -1,0 +1,19 @@
+{
+  "include": ["client/src/**/*"],
+  "exclude": ["node_modules", "dist", "android"],
+  "compilerOptions": {
+    "target": "ES2022",
+    "noEmit": true,
+    "module": "ESNext",
+    "strict": true,
+    "lib": ["esnext", "dom", "dom.iterable"],
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "allowImportingTsExtensions": true,
+    "moduleResolution": "bundler",
+    "baseUrl": ".",
+    "types": ["vite/client"],
+    "paths": { "@/*": ["./client/src/*"] }
+  }
+}
